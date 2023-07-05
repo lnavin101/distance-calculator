@@ -1,0 +1,16 @@
+{
+    "env": "production",
+    "api": {
+        "baseUrl": "https://api.radar.io/v1/route/distance",
+        "key": "prj_live_pk_6d482e46764c0a59169132ed2d0151f8746b2aa6"
+    },
+    "filename": "data.json",
+    "input": {
+        "directory": "./src",
+        "filename": "raw.csv"
+    },
+    "output": {
+        "directory": "./output",
+        "filename": "output"
+    }
+}
